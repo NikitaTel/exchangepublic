@@ -6299,7 +6299,7 @@ main {
   transition-duration: 0.25s;
 }
 .footer .menu__box {
-  padding: 65px 0 0;
+  padding: 60px 0 0;
 }
 .menu__item {
   display: block;
@@ -6311,6 +6311,10 @@ main {
   text-decoration: none;
   transition-duration: 0.25s;
   text-align: right;
+}
+
+.footer .menu__item {
+  padding: 25px 24px;
 }
 .menu__item:hover {
   color: #00abec;
