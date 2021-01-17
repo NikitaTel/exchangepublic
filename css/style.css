@@ -6250,7 +6250,7 @@ main {
   transform: rotate(90deg);
 }
 .menu-toggle {
-  opacity: 0.8;
+  opacity: 0.9;
   visibility: visible !important;
   right: 0 !important;
   z-index: 5;
@@ -6294,7 +6294,7 @@ main {
   padding: 100px 0 0;
   list-style: none;
   text-align: center;
-  background-color: #020305;
+  background-color: #000a29ed;
   box-shadow: 1px 0px 6px rgba(0,0,0,0.2);
   transition-duration: 0.25s;
 }
@@ -6303,7 +6303,7 @@ main {
 }
 .menu__item {
   display: block;
-  padding: 12px 24px;
+  padding: 25px 24px;
   color: #fff;
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
